@@ -1,0 +1,10 @@
+Z:\C#\фоновая 7.0\фоновая 7.0\bin\Debug\фоновая 7.0.exe.config
+Z:\C#\фоновая 7.0\фоновая 7.0\bin\Debug\фоновая 7.0.exe
+Z:\C#\фоновая 7.0\фоновая 7.0\bin\Debug\фоновая 7.0.pdb
+Z:\C#\фоновая 7.0\фоновая 7.0\obj\Debug\фоновая 7.0.csproj.AssemblyReference.cache
+Z:\C#\фоновая 7.0\фоновая 7.0\obj\Debug\фоновая_7._0.Form1.resources
+Z:\C#\фоновая 7.0\фоновая 7.0\obj\Debug\фоновая_7._0.Properties.Resources.resources
+Z:\C#\фоновая 7.0\фоновая 7.0\obj\Debug\фоновая 7.0.csproj.GenerateResource.cache
+Z:\C#\фоновая 7.0\фоновая 7.0\obj\Debug\фоновая 7.0.csproj.CoreCompileInputs.cache
+Z:\C#\фоновая 7.0\фоновая 7.0\obj\Debug\фоновая 7.0.exe
+Z:\C#\фоновая 7.0\фоновая 7.0\obj\Debug\фоновая 7.0.pdb
