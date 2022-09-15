@@ -1,0 +1,17 @@
+C:\Users\Maks\Desktop\Лучника\Лучника\bin\Debug\netcoreapp3.1\Лучники.exe
+C:\Users\Maks\Desktop\Лучника\Лучника\bin\Debug\netcoreapp3.1\Лучники.deps.json
+C:\Users\Maks\Desktop\Лучника\Лучника\bin\Debug\netcoreapp3.1\Лучники.runtimeconfig.json
+C:\Users\Maks\Desktop\Лучника\Лучника\bin\Debug\netcoreapp3.1\Лучники.runtimeconfig.dev.json
+C:\Users\Maks\Desktop\Лучника\Лучника\bin\Debug\netcoreapp3.1\Лучники.dll
+C:\Users\Maks\Desktop\Лучника\Лучника\bin\Debug\netcoreapp3.1\Лучники.pdb
+C:\Users\Maks\Desktop\Лучника\Лучника\obj\Debug\netcoreapp3.1\Лучники.csproj.AssemblyReference.cache
+C:\Users\Maks\Desktop\Лучника\Лучника\obj\Debug\netcoreapp3.1\Лучника.Form1.resources
+C:\Users\Maks\Desktop\Лучника\Лучника\obj\Debug\netcoreapp3.1\Лучники.csproj.GenerateResource.cache
+C:\Users\Maks\Desktop\Лучника\Лучника\obj\Debug\netcoreapp3.1\Лучники.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Maks\Desktop\Лучника\Лучника\obj\Debug\netcoreapp3.1\Лучники.AssemblyInfoInputs.cache
+C:\Users\Maks\Desktop\Лучника\Лучника\obj\Debug\netcoreapp3.1\Лучники.AssemblyInfo.cs
+C:\Users\Maks\Desktop\Лучника\Лучника\obj\Debug\netcoreapp3.1\Лучники.csproj.CoreCompileInputs.cache
+C:\Users\Maks\Desktop\Лучника\Лучника\obj\Debug\netcoreapp3.1\Лучники.dll
+C:\Users\Maks\Desktop\Лучника\Лучника\obj\Debug\netcoreapp3.1\Лучники.pdb
+C:\Users\Maks\Desktop\Лучника\Лучника\obj\Debug\netcoreapp3.1\Лучники.genruntimeconfig.cache
+C:\Users\Maks\Desktop\Лучника\Лучника\obj\Debug\netcoreapp3.1\Лучники.Properties.Resources.resources
