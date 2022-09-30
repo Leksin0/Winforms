@@ -1,0 +1,10 @@
+C:\Users\Levin.Maksim\source\repos\кружочьек\кружочьек\bin\Debug\кружочьек.exe.config
+C:\Users\Levin.Maksim\source\repos\кружочьек\кружочьек\bin\Debug\кружочьек.exe
+C:\Users\Levin.Maksim\source\repos\кружочьек\кружочьек\bin\Debug\кружочьек.pdb
+C:\Users\Levin.Maksim\source\repos\кружочьек\кружочьек\obj\Debug\кружочьек.csproj.AssemblyReference.cache
+C:\Users\Levin.Maksim\source\repos\кружочьек\кружочьек\obj\Debug\кружочьек.Form1.resources
+C:\Users\Levin.Maksim\source\repos\кружочьек\кружочьек\obj\Debug\кружочьек.Properties.Resources.resources
+C:\Users\Levin.Maksim\source\repos\кружочьек\кружочьек\obj\Debug\кружочьек.csproj.GenerateResource.cache
+C:\Users\Levin.Maksim\source\repos\кружочьек\кружочьек\obj\Debug\кружочьек.csproj.CoreCompileInputs.cache
+C:\Users\Levin.Maksim\source\repos\кружочьек\кружочьек\obj\Debug\кружочьек.exe
+C:\Users\Levin.Maksim\source\repos\кружочьек\кружочьек\obj\Debug\кружочьек.pdb
