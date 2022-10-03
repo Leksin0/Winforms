@@ -1,0 +1,11 @@
+C:\Users\Maks\Desktop\Пятиугольник\Пятиугольник\bin\Debug\Пятиугольник.exe.config
+C:\Users\Maks\Desktop\Пятиугольник\Пятиугольник\bin\Debug\Пятиугольник.exe
+C:\Users\Maks\Desktop\Пятиугольник\Пятиугольник\bin\Debug\Пятиугольник.pdb
+C:\Users\Maks\Desktop\Пятиугольник\Пятиугольник\obj\Debug\Пятиугольник.csproj.AssemblyReference.cache
+C:\Users\Maks\Desktop\Пятиугольник\Пятиугольник\obj\Debug\Пятиугольник.csproj.SuggestedBindingRedirects.cache
+C:\Users\Maks\Desktop\Пятиугольник\Пятиугольник\obj\Debug\Пятиугольник.Form1.resources
+C:\Users\Maks\Desktop\Пятиугольник\Пятиугольник\obj\Debug\Пятиугольник.Properties.Resources.resources
+C:\Users\Maks\Desktop\Пятиугольник\Пятиугольник\obj\Debug\Пятиугольник.csproj.GenerateResource.cache
+C:\Users\Maks\Desktop\Пятиугольник\Пятиугольник\obj\Debug\Пятиугольник.csproj.CoreCompileInputs.cache
+C:\Users\Maks\Desktop\Пятиугольник\Пятиугольник\obj\Debug\Пятиугольник.exe
+C:\Users\Maks\Desktop\Пятиугольник\Пятиугольник\obj\Debug\Пятиугольник.pdb
