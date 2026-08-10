@@ -1,5 +1,5 @@
 ﻿
-namespace кружочьек
+namespace polygons
 {
     partial class Form1
     {
